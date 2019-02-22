@@ -6,7 +6,7 @@ An add-on for Expression Engine 3 or newer to remove HTML tags with the PHP stri
 
 1. Copy the striptags directory into your system/user/addons folder
 2. Login to your Expression Engine installation, go to Developer --> Add-Ons 
-3. Install the Striptags plugin
+3. Install the Striptags add-on
 
 ## Usage
 
@@ -14,7 +14,7 @@ An add-on for Expression Engine 3 or newer to remove HTML tags with the PHP stri
 
 ### Example: 
 
-The striptags plugin will turn this:    
+The striptags add-on will turn this:    
 ```<p>Something <strong>with</strong> all <em>sorts</em> of <a href="something.html" title="Testing title">tags</a>.</p>```
 
 into this:    
