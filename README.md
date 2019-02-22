@@ -1,1 +1,21 @@
-# expression-engine-strip-tags
+# Expression Engine: Striptags plugin
+
+A plugin for Expression Engine 3 or newer to remove HTML tags with the PHP strip_tags() function: https://secure.php.net/manual/en/function.strip-tags.php
+
+## Installation
+
+1. Copy the striptags directory into your system/user/addons folder
+2. Login to your Expression Engine installation, go to Developer --> Add-Ons 
+3. Install the Striptags plugin
+
+## Usage
+
+```{exp:striptags}{your_field_with_tags}{/exp:striptags}```
+
+### Example: 
+
+The striptags plugin will turn this:    
+```<p>Something <strong>with</strong> all <em>sorts</em> of <a href="something.html" title="Testing title">tags</a>.</p>```
+
+into this:    
+```Something with all sorts of tags. ```
