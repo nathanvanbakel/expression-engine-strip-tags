@@ -7,5 +7,5 @@ return array(
       'description' => 'Removes HTML tags from a given bit of data.',
       'version'     => '1.0',
       'namespace'   => 'Voorloper\striptags',
-      'docs_url'    => 'https://voorloper.com'
+      'docs_url'    => 'https://github.com/nathanvanbakel/expression-engine-striptags'
 );
