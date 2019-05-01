@@ -1,7 +1,6 @@
 # Expression Engine: Striptags Add-On
 
-An add-on for Expression Engine 3 or newer to remove HTML tags with the PHP strip_tags() function: https://secure.php.net/manual/en/function.strip-tags.php
-
+An add-on for Expression Engine 3 or newer to remove HTML tags with the PHP [strip_tags()](https://secure.php.net/manual/en/function.strip-tags.php) function.
 ## Installation
 
 1. Copy the striptags directory into your system/user/addons folder
