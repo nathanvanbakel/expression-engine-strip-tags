@@ -8,7 +8,7 @@
 class striptags {
 	
 	public static $name         = 'Voorloper.com: Strip Tags';
-	public static $version      = '1.0';
+	public static $version      = '1.0.1';
 	public static $author       = 'Nathan van Bakel';
 	public static $author_url   = 'https://voorloper.com/';
 	public static $description  = 'Removes tags from a given bit of data';
@@ -29,4 +29,5 @@ class striptags {
 	}
 
 }
-?>
+
+//eof
